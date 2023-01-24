@@ -1,0 +1,13 @@
+$basecolor:#777;
+$base-padding:5px;
+$base-font:arial;
+
+.element {
+    width: 5px;
+    height: 20px;
+    p{
+        color: $basecolor;
+        padding: $base-padding;
+        font-family: $base-font;
+    }
+}
